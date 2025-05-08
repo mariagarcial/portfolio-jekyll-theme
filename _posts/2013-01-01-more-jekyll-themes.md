@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Using github pages!"
+## "Portfolio Jekyll Theme"
+## "Using github pages!"
 ---
 
 ## About Me
